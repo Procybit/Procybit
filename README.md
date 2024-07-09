@@ -5,7 +5,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Procybit&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Procybit&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Procybit&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" width="80%"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Procybit&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ###
