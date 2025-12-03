@@ -13,6 +13,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,lua,rust,js,godot,robloxstudio,regex,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,lua,rust,js,godot,robloxstudio,bevy)](https://skillicons.dev)
 
 ###
